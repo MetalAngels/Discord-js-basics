@@ -6,7 +6,7 @@ If you need any help, please feel free do DM me on Discord at "Alex the FemBot#3
 Before you start, install "Visual Studio Code' and "Node.js"
 https://code.visualstudio.com/?wt.mc_id=vscom_downloads
 https://nodejs.org/en/
-Also, don't forget to install the zip file provided!
+Also, don't forget to install the bot.zip file provided!
 
 
 Go to https://discord.com/developers/applications and click on "New Application"
